@@ -23,7 +23,7 @@ a {
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
-  color: ##A7BCCB;
+  color: #;
 }
 a:hover,
 a:focus {
@@ -43,7 +43,7 @@ p {
   margin-bottom: 20px;
 }
 .bg-primary {
-  background-color: #96c0dd;
+  background-color: #96c0dd !important;
 }
 .bg-dark {
   background-color: #222222;
@@ -338,9 +338,9 @@ fieldset[disabled] .btn-default.active {
   background-color: #222222;
 }
 .btn-primary {
-  color: white;
-  background-color: #cccac9;
-  border-color: #cccac9;
+  color: #222222;
+  background-color: #867d7d;
+  border-color: #867d7d;
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
