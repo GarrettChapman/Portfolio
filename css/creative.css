@@ -1,8 +1,4 @@
-/*!
- * Start Bootstrap - Creative v3.3.7+1 (http://startbootstrap.com/template-overviews/creative)
- * Copyright 2013-2016 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
- */
+
 html,
 body {
   height: 100%;
@@ -50,7 +46,7 @@ p {
   color: white;
 }
 .text-faded {
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(transparent);
 }
 section {
   padding: 100px 0;
@@ -111,7 +107,7 @@ aside {
     border-color: rgba(255, 255, 255, 0.3);
   }
   .navbar-default .navbar-header .navbar-brand {
-    color: rgba(255, 255, 255, 0.7);
+    color: rgba(transparent);
   }
   .navbar-default .navbar-header .navbar-brand:hover,
   .navbar-default .navbar-header .navbar-brand:focus {
@@ -119,7 +115,7 @@ aside {
   }
   .navbar-default .nav > li > a,
   .navbar-default .nav > li > a:focus {
-    color: rgba(255, 255, 255, 0.7);
+    color: rgba(transparent);
   }
   .navbar-default .nav > li > a:hover,
   .navbar-default .nav > li > a:focus:hover {
@@ -155,7 +151,8 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url("http://ktpwebdev.com/wp-content/uploads/2016/09/77-Web-Development-Background.jpg");
+  background-image: url("https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAgZAAAAJDk0NDQ5Y2U1LWU5MTMtNDk2Yy1hMjhiLTIyMDRjYWQ4MWIxZQ.jpg");
+  /*background-image: url("https://www.indianic.com/wp-content/uploads/2016/07/webdevelopment-bg.jpg");*/
   text-align: center;
   color: white;
 }
@@ -177,7 +174,7 @@ header .header-content .header-content-inner hr {
 }
 header .header-content .header-content-inner p {
   font-weight: 300;
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(transparent);
   font-size: 16px;
   margin-bottom: 50px;
 }
@@ -291,8 +288,8 @@ header .header-content .header-content-inner p {
 }
 .btn-default {
   color: #222222;
-  background-color: #867d7d;
-  border-color: #867d7d;
+  background-color: #435A65;
+  border-color: #435A65;
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
@@ -338,9 +335,9 @@ fieldset[disabled] .btn-default.active {
   background-color: #222222;
 }
 .btn-primary {
-  
-  background-color: #867d7d;
-  border-color: #867d7d;
+
+  background-color: #435A65;
+  border-color:#435A65;
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
@@ -405,6 +402,13 @@ fieldset[disabled] .btn-primary.active {
   text-shadow: none;
   background: #222222;
 }
+
+img {
+  height:auto;
+  width: auto;
+}
+
+
 img::selection {
   color: white;
   background: transparent;
