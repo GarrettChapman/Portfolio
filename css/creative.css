@@ -33,13 +33,19 @@ h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
+
+.logos {
+  width:65px;
+  height:65px;
+  
+}
 p {
   font-size: 16px;
   line-height: 1.5;
   margin-bottom: 20px;
 }
 .bg-primary {
-  background-color: #96c0dd !important;
+  background-color: #aab8c1 !important;
 }
 .bg-dark {
   background-color: #222222;
