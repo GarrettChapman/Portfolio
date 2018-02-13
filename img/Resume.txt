@@ -1,0 +1,97 @@
+﻿Garrett Chapman
+
+
+/in/garrett-chapman | github.com/GarrettChapman | Garrett.Chapman@yahoo.com | 469-323-2582   
+                           
+________________
+SKILLS
+AngularJS | Javascript | HTML5  | CSS | REST | Node.js| Jquery | XML | React | GitHub
+________________
+
+
+        EXPERIENCE
+Student Mentor at DevMoutain - DevMountain.com
+Sept. - Nov. 2017
+* Assisted and worked with students as they learned full stack web development, which included HTML/CSS, JavaScript, jQuery, Angularjs, React, Nodejs, and SQL.
+
+
+* Handled various roles as mentor to help students achieve their career goals by answering their questions, pair programming with students, reviewing code, and helping students stay motivated.
+________________
+
+
+PROJECTS
+
+
+MagicGrooveCruise.com                                                                January 2018  
+AngularJS, HTML, CSS, FormSpree
+MagicGrooveCruise.com
+
+
+Full Stack app built in AngularJS for cruise registration for Magic 107.3, Kansas City Radio Station
+* Implemented clean layout and styling
+* Utilized FormSpree form submission
+* Single Page Application (SPA)
+
+
+PaycationXP.com        
+January 2018                                                          
+AngularJS, HTML, CSS, FormSpree
+PaycationXP.com
+
+
+Full Stack app built in AngularJS for trip registration at multiple resorts.
+* Implemented clean layout and styling
+* Utilized FormSpree form submission
+* Single Page Application (SPA)
+
+
+
+
+Dog Company - Band Website
+December 2017                                                
+Angular, Mongoose, Express/Express-session, Node, WebPack, JQuery, Materialize CSS.
+DogCompanyDTX.com
+* Refactored styling in order to more closely meet brand requirements using custom CSS.
+
+
+Travel Funds                
+July-August 2017                                                         
+React, Redux, XML, SQL, HTML, CSS -
+https://travelfunds.herokuapp.com/
+
+
+Full Stack app built with React, the scope of which was to build a digital travel savings app.
+* Lead the implementation of front end design from wireframe
+* Utilized Bootstrap, MaterilizeCSS and custom DOM elements
+* Designed custom content for component rendering
+
+
+Req. Liver 
+June 2017                                                                          
+Angular, HTML, CSS, SQL 
+github.com/GarrettChapman/Dev-Stagger
+
+
+Full Stack app built in Angular.js, designed to show happy hour locations within your area.
+* Implemented Google Maps, Geolocation & Yelp API
+* Integrated REST data with SQL data to return custom results
+* Custom CSS without styling libraries 
+
+
+Recreation Finder   
+May 2017                                                                    
+Angular, HTML, CSS 
+ github.com/GarrettChapman/No-Server-Project                                                                              
+
+
+An introductory project into the Angular.js framework utilizing REST and data manipulation with
+the purpose of locating recreational areas nearby.
+
+
+* Implemented Google Maps & Geolocation API
+* Chained REST and integrated user generated content
+* Streamlined single page application
+________________
+EDUCATION
+DevMountain - Full Stack Web Development 2017                                            
+DevMountain.com
